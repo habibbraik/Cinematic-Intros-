@@ -1,8 +1,7 @@
-# Flute by [Web Prodigies](https://www.youtube.com/@webprodigies)
+# Cinematic-Intro
 
 Cinematic 3D scenes made from your **real React UI**. Your coding agent composes the camera, depth, focus and motion. Flute provides the renderer, scene library, playback and MP4 export. Your app keeps its components, providers and styles.
 
-Open source under the [MIT license](LICENSE). Runs locally, with your existing coding agent. No account or AI subscription connection is needed in Flute.
 
 ## Install into your app
 
